@@ -8,3 +8,7 @@ You can also add your API key in the API_KEY variable.
 source /chatgpt/venv/bin/activate
 python /chatgpt/venv/gpt.py
 ```
+
+## Key ##
+To get your API key: https://platform.openai.com/settings/organization/api-keys
+(Not free)
